@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.org.ala.hub.SecureSandboxInterceptorSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-27T19:20:57" hostname="MacBook-Pro-de-Bineo.local" time="3.35">
+  <properties/>
+  <testcase name="Test secureSandbox interceptor matching proxy" classname="au.org.ala.hub.SecureSandboxInterceptorSpec" time="3.345"/>
+  <testcase name="Test secureSandbox interceptor matching occurrence" classname="au.org.ala.hub.SecureSandboxInterceptorSpec" time="0.005"/>
+  <system-out><![CDATA[[ala-hub] Including default configuration file: /data/ala-hub/config/ala-hub-config.properties
+[ala-hub] (*) grails.config.locations = [file:/data/ala-hub/config/ala-hub-config.properties]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+_[ala-hub] Including default configuration file: /data/ala-hub/config/ala-hub-config.properties
+^[ala-hub] (*) grails.config.locations = [file:/data/ala-hub/config/ala-hub-config.properties]
