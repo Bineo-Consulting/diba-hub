@@ -143,7 +143,7 @@ grails.hibernate.cache.queries = false
 environments {
     development {
         serverName = 'http://diba.bioark.es'
-        grails.serverURL = 'http://diba.bioark.es/' + appName
+        grails.serverURL = 'http://diba.bioark.es/' + "${appName}"
 //        security.cas.appServerName = serverName
 //        security.cas.contextPath = "/${appName}"
           //grails.resources.debug = true // cache & resources plugins
@@ -158,6 +158,8 @@ environments {
 
     }
     production {
+          serverName = 'http://diba.bioark.es'
+          grails.serverURL = 'http://diba.bioark.es/' + "${appName}"
 //        grails.serverURL = 'https://biocache.ala.org.au'
 //        serverName='https://biocache.ala.org.au'
 //        security.cas.appServerName = serverName
