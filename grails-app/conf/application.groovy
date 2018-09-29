@@ -142,8 +142,8 @@ grails.hibernate.cache.queries = false
 
 environments {
     development {
-        serverName = 'http://dev.ala.org.au:8080'
-        grails.serverURL = 'http://dev.ala.org.au:8080/' + appName
+        serverName = 'http://diba.bioark.es'
+        grails.serverURL = 'http://diba.bioark.es/' + appName
 //        security.cas.appServerName = serverName
 //        security.cas.contextPath = "/${appName}"
           //grails.resources.debug = true // cache & resources plugins
