@@ -23,6 +23,8 @@ grails:
     plugins:
         twitterbootstrap:
             fixtaglib: true
+    cors:
+        enabled: true
 info:
     app:
         name: '@info.app.name@'
