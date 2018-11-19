@@ -15,7 +15,7 @@ dependencies:
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.4.6.RELEASE/1c819251f7cf2122c0d9847368c401b9b382469f/spring-boot-starter-tomcat-1.4.6.RELEASE.jar
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-grails/2.14.2/78d9651f5fc3dee1fce57cd5b01a18f9e53486b0/asset-pipeline-grails-2.14.2.jar
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.194/a180e95af52ad8116d52beb5f1d28596dcafa9d8/h2-1.4.194.jar
-- file:/Users/santiagomrv/.m2/repository/au/org/ala/plugins/grails/biocache-hubs/2.0.7-SNAPSHOT/biocache-hubs-2.0.7-SNAPSHOT.jar
+- file:/Users/santiagomrv/.m2/repository/au/org/ala/plugins/grails/diba-biocache-hubs/2.0.7-SNAPSHOT/diba-biocache-hubs-2.0.7-SNAPSHOT.jar
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/au.org.ala.plugins.grails/downloads-plugin/2.0.6/f7bd96905b6a13b02128d532b39db6d96453d1ea/downloads-plugin-2.0.6.jar
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/org.grails.plugins/ala-bootstrap3/3.0.6/7c8d522ba11cc1213211fce2451dce7cf179f5dc/ala-bootstrap3-3.0.6.jar
 - file:/Users/santiagomrv/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.2.11/f62a90fe57b4c0f962a174635c5d498529507d2f/grails-plugin-testing-3.2.11.jar
