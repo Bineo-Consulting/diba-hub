@@ -1,6 +1,7 @@
 ### Build directory ###
 build
 build/*
+out/*
 
 # Package Files #
 *.jar
@@ -23,3 +24,7 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+#intelliJ ide
+*.iml
+.idea

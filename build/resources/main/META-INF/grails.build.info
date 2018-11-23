@@ -1,6 +1,0 @@
-#Thu, 27 Sep 2018 21:22:34 +0200
-
-info.app.version=3.0.10-SNAPSHOT
-info.app.name=ala-hub
-grails.env=development
-info.app.grailsVersion=3.2.11
