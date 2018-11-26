@@ -9,6 +9,8 @@ grails:
             - file:/data/diba-hub/config/diba-hub-config.properties
             - file:/data/diba-hub/config/diba-hub-config.yml
             - file:/data/diba-hub/config/diba-hub-config.groovy
+            - classpath:diba-hub-config.properties
+            - classpath:diba-hub-config.groovy            
     spring:
         transactionManagement:
             proxies: false
