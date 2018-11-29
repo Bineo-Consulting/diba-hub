@@ -69,6 +69,14 @@ if (inplace) {
     }
 }
 
+compileGroovy {
+    groovyOptions.forkOptions.jvmArgs = ['-noverify']
+}
+
+test {
+    jvmArgs '-noverify'
+}
+
 dependencies {
 
     def noCache = {
@@ -81,6 +89,7 @@ dependencies {
     compile "org.grails:grails-core"
     compile "org.springframework.boot:spring-boot-starter-actuator"
     provided "org.springframework.boot:spring-boot-starter-tomcat"
+    compile "org.apache.tomcat.embed:tomcat-embed-core:8.5.31"
     compile "org.grails:grails-dependencies", noCache
     compile "org.grails:grails-web-boot"
     compile "org.grails.plugins:cache"

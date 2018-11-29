@@ -12,6 +12,7 @@
             <wls:package-name>javassist.*</wls:package-name>
             <wls:package-name>javax.persistence.*</wls:package-name>
             <wls:package-name>javax.persistence.spi.*</wls:package-name>
+            <wls:package-name>org.apache.catalina*</wls:package-name>
             <wls:package-name>org.apache.commons.*</wls:package-name>
             <wls:package-name>javax.inject.*</wls:package-name>
             <wls:package-name>javax.validation.*</wls:package-name>
