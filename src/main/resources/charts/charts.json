@@ -1,0 +1,79 @@
+{ "biocache" : {
+    "license" : {
+      "title_ca": "Per llicència",
+      "title_es": "Por licencia",
+      "title_en": "By license",
+      "chartType": "doughnut",
+      "emptyValueMsg_es": "Licencia no especificada",
+      "emptyValueMsg_en": "License not specified",
+      "emptyValueMsg_ca": "Llicència no especificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "state" : {
+      "title_ca": "Per província",
+      "title_es": "Por provincia",
+      "title_en": "By province",
+      "chartType": "bar",
+      "emptyValueMsg_es": "Provincia no especificada",
+      "emptyValueMsg_en": "Province not specified",
+      "emptyValueMsg_ca": "Província no especificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "institution_uid" : {
+      "title_ca": "Per institució",
+      "title_es": "Por institución",
+      "title_en": "By institution",
+      "chartType": "doughnut",
+      "emptyValueMsg_es": "Institución no especificada",
+      "emptyValueMsg_en": "Institution not specified",
+      "emptyValueMsg_ca": "Institució no especificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "collection_uid" : {
+      "title_ca": "Per col·lecció",
+      "title_es": "Por colección",
+      "title_en": "By collection",
+      "chartType": "doughnut",
+      "emptyValueMsg_es": "Colección no especificada",
+      "emptyValueMsg_en": "collection not specified",
+      "emptyValueMsg_ca": "Col·lecció no especificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "data_resource_uid" : {
+      "title_ca": "Per conjunt de dades",
+      "title_es": "Por juego de datos",
+      "title_en": "By dataset",
+      "chartType": "doughnut",
+      "emptyValueMsg_es": "Juego de datos no especificada",
+      "emptyValueMsg_en": "Dataset not specified",
+      "emptyValueMsg_ca": "Conjunt de dades inespecificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "month" : {
+      "title_ca": "Per mes",
+      "title_es": "Por mes",  
+      "title_en": "By month",
+      "chartType": "bar",
+      "emptyValueMsg_es": "Mes no especificada",
+      "emptyValueMsg_en": "Month not specified",
+      "emptyValueMsg_ca": "Mes no especificada",
+      "hideEmptyValues" : true,
+      "includeOther" : "false"
+    },
+    "kingdom" : {
+      "title_ca": "Per regne",
+      "title_es": "Por kingdom",  
+      "title_en": "By reino",
+      "chartType": "doughnut",
+      "emptyValueMsg_es": "Reino no especificado",
+      "emptyValueMsg_en": "Kingdom not specified",
+      "emptyValueMsg_ca": "Regne no especificada",
+        "hideEmptyValues" : true,
+        "includeOther" : "false"
+    }
+}}
